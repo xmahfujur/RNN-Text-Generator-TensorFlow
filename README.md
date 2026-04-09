@@ -1,1 +1,1 @@
-# RNN-Text-Generator-TensorFlow-
+# RNN-Text-Generator-TensorFlow
